@@ -1,4 +1,5 @@
- # Formation Coursera – Babacar NDAO
+
+# Formation Coursera – Babacar NDAO
 
 Ce dépôt regroupe mes travaux pratiques et certificats obtenus via la plateforme Coursera, dans le cadre de ma formation en Data Science et Intelligence Artificielle.
 
@@ -47,3 +48,35 @@ Ce dépôt regroupe mes travaux pratiques et certificats obtenus via la platefor
    ```bash
    git clone https://github.com/SEYDINA04/FORMATION-COURSERA.git
    cd FORMATION-COURSERA
+
+
+2. **Installer les dépendances**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Lancer un notebook**
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. **Consulter les certificats**
+   Ouvrez les fichiers PDF ou PNG contenus dans le dossier racine.
+
+---
+
+## 🤝 Licence & Crédits
+
+* Tous les travaux datent de 2024–2025 et ont été réalisés dans le cadre de mes cours Coursera.
+* Les données et exercices proviennent des cours et challenges officiels de Coursera.
+* Licence : CC BY-NC-SA 4.0 (Creative Commons) — n’hésitez pas à réutiliser et adapter pour un usage non-commercial, en citant la source.
+
+---
+> **Auteur :** Babacar NDAO
+> **Contact :** [nbcprof04@gmail.com](mailto:nbcprof04@gmail.com)
+> **Profil GitHub :** [https://github.com/SEYDINA04](https://github.com/SEYDINA04)
+
+```
+```
